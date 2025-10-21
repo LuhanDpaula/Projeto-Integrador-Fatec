@@ -163,7 +163,7 @@ O estudo mostrou que o projeto é:
 
 # 8. Regras de negócio (Modelo Canvas)  
 
-<img src="ModeloCanva" alt="Modelo de negócios canva">
+<a href="IMGS/ModeloCANVA.pdf" class="image fit"><img src="IMGS/ModeloCANVA.pdf" alt="Modelo de negocio canva"></a>
 
 ---
 
